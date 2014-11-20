@@ -1,0 +1,9 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="DS_lab1_test" EntryPointType="DS_lab1_test.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="DS_lab1_test" Source="DS_lab1_test.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Data.Input" Source="System.Windows.Controls.Data.Input.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.DataAnnotations" Source="System.ComponentModel.DataAnnotations.dll" />
+    <AssemblyPart Source="ru/System.Windows.Controls.Data.Input.resources.dll" />
+    <AssemblyPart Source="ru/System.ComponentModel.DataAnnotations.resources.dll" />
+  </Deployment.Parts>
+</Deployment>

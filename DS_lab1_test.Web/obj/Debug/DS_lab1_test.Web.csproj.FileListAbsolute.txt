@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\DS_lab1_test\DS_lab1_test.Web\bin\DS_lab1_test.Web.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\DS_lab1_test\DS_lab1_test.Web\bin\DS_lab1_test.Web.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\DS_lab1_test\DS_lab1_test.Web\obj\Debug\DS_lab1_test.Web.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\DS_lab1_test\DS_lab1_test.Web\obj\Debug\DS_lab1_test.Web.pdb
